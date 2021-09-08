@@ -1,0 +1,6 @@
+to push to git 
+git status this gives you the staus of the giles
+git add . adds the files to push up
+git commit -m "updated xxxx" to commit the changes "" put what you did between the ""
+git push heroku master to push the code up to heroku
+
